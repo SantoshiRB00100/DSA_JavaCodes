@@ -17,7 +17,7 @@ public class stackHeight {
     
 
     public static void main(String[] args) {
-        int x = 3, n = 3;
+        int x = 2, n = 5;
         int output = printPower(x,n);
         System.out.println(output);
 
