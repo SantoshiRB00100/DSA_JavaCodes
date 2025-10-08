@@ -1,6 +1,5 @@
 package Recursion;
-
-public class fistLastOcuur {
+public class fistLastOcurr {
     public static int first = -1;
     public static int last = -1;
     public static void findOccr(String str, int idx, char element){
